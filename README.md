@@ -1,2 +1,2 @@
 # article-generator
-Generate an bespoke article with a plagiarism and AI check
+Generate a bespoke article with a plagiarism and AI check
